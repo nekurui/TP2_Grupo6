@@ -1,0 +1,9 @@
+export default function About1() {
+  return (
+    <img
+      src="/About1.png"
+      className="rounded-[5px] min-w-screen min-h-screen absolute left-[120px] top-[781px] max-w-none"
+      alt="about 1"
+    />
+  );
+}
